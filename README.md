@@ -1,1 +1,1 @@
-# DailyPython
+# DailyPython - 30 days
